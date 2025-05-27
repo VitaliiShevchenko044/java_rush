@@ -4,7 +4,7 @@ package com.javarush.task.task15.task1502;
 ООП - Наследование животных
 */
 
-import javafx.fxml.FXML;
+//import javafx.fxml.FXML;
 
 public class Solution {
     //добавьте классы Goose и Dragon тут
